@@ -1,18 +1,20 @@
 [
   {
-    "id": 1,
-    "name": "آبسردکن پارک شهرداری",
-    "lat": 30.4055,
-    "lng": 55.9890,
-    "rating": 4.2,
-    "status": "active"
+    "location": {
+      "lat": 35.700141,
+      "lng": 51.337485
+    },
+    "status": "working",
+    "rating": 5,
+    "name": "Watercooler 1"
   },
   {
-    "id": 2,
-    "name": "آبسردکن میدان بسیج",
-    "lat": 30.4101,
-    "lng": 55.9955,
-    "rating": 3.7,
-    "status": "active"
+    "location": {
+      "lat": 35.701000,
+      "lng": 51.335000
+    },
+    "status": "broken",
+    "rating": 3,
+    "name": "Watercooler 2"
   }
 ]
